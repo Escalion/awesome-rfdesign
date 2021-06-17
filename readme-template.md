@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/Escalion/awesome-rfdesign/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
@@ -53,7 +53,7 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+<!-- [Thanks goes to these contributors](https://github.com/Escalion/awesome-rfdesign/graphs/contributors)! -->
 
 ## License
 
