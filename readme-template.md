@@ -3,7 +3,8 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/Escalion/awesome-rfdesign/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome RF Design
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/Escalion/awesome-rfdesign/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
